@@ -1,1 +1,5 @@
-GET http://localhost:5292/
+GET http://localhost:5292/weather
+
+### 
+
+GET http://localhost:5292/weather/37.7669/-122.4321
